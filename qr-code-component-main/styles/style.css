@@ -1,0 +1,13 @@
+h2, p {
+    color: black;
+    text-align: center;
+}
+
+.attribution {
+    font-size: medium;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
